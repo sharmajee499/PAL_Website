@@ -1,0 +1,26 @@
+---
+title: "Lab Resources"
+author: "Sandesh"
+date: "3/9/2021"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+#### These resources below are for those individuals who are in the lab:
+
+-   Lab <a href="https://docs.google.com/document/d/136ErjOM1SNroW-XGtb2x4k9FdZG8FQw5tsHgqR07pXU/edit" target="_blank">syllabi</a> for research assistants (contains job descriptions)
+
+-   Letter of recommendation request <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmF3Nb6Ts9K2VZ4jeq8bEK6S79VK-9LBzj_n1RyHhQsNRgZw/viewform" target="_blank">survey form</a>
+
+-   Open Science <a href="https://docs.google.com/document/d/1oMkTCEFtOq_DB0eoNiyk-B5QCgL6sVSF5pVvD1ONZDc/mobilebasic#h.pmed3q71ugip" target="_blank">Manual</a> from Haverford College
+
+-   Free BOOKS! A Tutorial for <a href="https://www.fon.hum.uva.nl/paul/lot2015/Navarro2014.pdf" target="_blank">Learning Statistics with R</a>; Hadley
+    Wickham's <a href="https://r4ds.had.co.nz/" target="_blank">R for Data Science</a>; and the popular <a href="https://r-graphics.org/" target="_blank">R Graphics Cookbook</a>
+
+-   Psych Data Standards <a href="https://github.com/psych-ds/psych-DS" target="_blank">Materials</a>
+
+-   Teaching yourself R? Try using the <a href="https://swirlstats.com/" target="_blank">swirl package</a>
+
+-   Full project <a href="https://docs.google.com/spreadsheets/d/1aRTwgxTZLl8zlnK7TqnVpCMcoVShFRGqfXzqEvhR-rg/edit#gid=1208698729" target="_blank">repository</a>
