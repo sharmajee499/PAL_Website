@@ -6,9 +6,9 @@
     <description>Recent content on People Analytics Lab (PAL) @ Nicholls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
+      <title>Student Attrition Modeling</title>
       <link>/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Project 2</title>
+      <title>Student Attrition Modeling</title>
       <link>/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -26,21 +26,13 @@
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Shiny Web App</title>
+      <link>/project/shiny_webapp/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project4/</guid>
-      <description></description>
+      <guid>/project/shiny_webapp/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
     </item>
     
     <item>
@@ -123,7 +115,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Email: christopher.castille@nicholls.eduPhone: 985 449 7015Address: 906 East 1st St., College of Business Administration, Thibodaux, LA, 70301, USA</description>
+      <description>Email: christopher.castille@nicholls.eduPhone: 985 449 7015Address: 906 East 1st St., College of Business Administration, Thibodaux, LA, 70301, USAThis is Test Test</description>
     </item>
     
     <item>
