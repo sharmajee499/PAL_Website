@@ -1,11 +1,12 @@
 ---
-description: Lorem ipsum dolor sit amet
+description: Predicting the probability of student voluntarily leaving Nicholls.
 draft: false
 repo: '#'
 tags:
-- go
-- golang
-- hugo
-title: Project 1
+- R
+- Logistic Regression
+- RMarkdown
+title: Student Attrition Modeling
 weight: 1
 ---
+

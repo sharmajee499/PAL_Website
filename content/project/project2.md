@@ -1,11 +1,12 @@
 ---
-description: Consectetur adipiscing elit
+description: Predicting the probability of student voluntarily leaving Nicholls.
 draft: false
-repo: '#'
 tags:
-- html
-- css
-- js
-title: Project 2
-weight: 2
+- R
+- Logistic Regression
+- RMarkdown
+title: Student Attrition Modeling
+weight: 1
 ---
+
+
