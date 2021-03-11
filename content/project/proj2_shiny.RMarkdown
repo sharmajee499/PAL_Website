@@ -1,0 +1,15 @@
+---
+title: "Student Attrition Web App"
+author: "Sandesh"
+date: "3/11/2021"
+output: html_document
+draft: false
+tags:
+- R
+- Shiny
+- Dashboard
+weight: 2
+description: "User Interface Shiny Web Application of Attrition Model"
+---
+
+## This is demo
