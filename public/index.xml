@@ -93,15 +93,6 @@ Follow the following steps:
     
     <item>
       <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>/about_pal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
