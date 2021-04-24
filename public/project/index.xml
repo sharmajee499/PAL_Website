@@ -6,24 +6,14 @@
     <description>Recent content in Projects on People Analytics Lab (PAL) @ Nicholls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Student Attrition Modeling</title>
-      <link>/project/student_attrition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Student Attrition</title>
+      <link>/project/student_attrition/student_attrition/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/student_attrition/</guid>
-      <description>This is the project</description>
-    </item>
-    
-    <item>
-      <title>Shiny Web App</title>
-      <link>/project/shiny_webapp/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/shiny_webapp/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <guid>/project/student_attrition/student_attrition/</guid>
+      <description></description>
     </item>
     
   </channel>

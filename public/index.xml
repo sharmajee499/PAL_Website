@@ -6,24 +6,24 @@
     <description>Recent content on People Analytics Lab (PAL) @ Nicholls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Student Attrition Modeling</title>
-      <link>/project/student_attrition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Student Attrition</title>
+      <link>/project/student_attrition/student_attrition/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/student_attrition/</guid>
-      <description>This is the project</description>
+      <guid>/project/student_attrition/student_attrition/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Shiny Web App</title>
-      <link>/project/shiny_webapp/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Research that is not reproducible is like pollution: We should treat it as such</title>
+      <link>/post/2019-03-20-reproducible/reproducible/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/shiny_webapp/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <guid>/post/2019-03-20-reproducible/reproducible/</guid>
+      <description>When a measure becomes a target, it ceases to be a good measure - Goodhart’s law
+I was recently interviewed by Vinay Patel and Joe Meyer of Louisiana Tech University (shout out to the Bulldogs!) on the topic of open science in IO psychology. In their article titled “We want open science in I-O!…Do we?” Vinay and Joe gave a broad overview of what open science is and why it particularly relevant for IO psychology.</description>
     </item>
     
     <item>
