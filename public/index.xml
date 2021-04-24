@@ -1,71 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>People Analytics Lab (PAL) @ Nicholls</title>
-    <link>/</link>
-    <description>Recent content on People Analytics Lab (PAL) @ Nicholls</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Student Attrition Modeling</title>
-      <link>/project/student_attrition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/student_attrition/</guid>
-      <description>This is the project</description>
-    </item>
-    
-    <item>
-      <title>Shiny Web App</title>
-      <link>/project/shiny_webapp/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/shiny_webapp/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
-    </item>
-    
-    <item>
-      <title>Small Wins in the PAL</title>
-      <link>/post/2019-01-06-small-wins-in-the-pal/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019-01-06-small-wins-in-the-pal/</guid>
-      <description>Author : Dr. Christopher CastilleThis year, we, Ann-Marie Castille (my better half over in the Computer Information Systems Department here at NSU and fellow I/O psychologist) and I founded the People Analytics Lab @ NSU. It is a social science lab that gives students opportunities to learn how to conduct research as it relates to organizational life. Thus far, there have been a few positive outcomes. One that I am particularly proud of involves a few students in our lab (Sarah Avet, Kathryn Daigle, and Bernard Wazeman).</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about_pal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about_pal/</guid>
-      <description>What is the People Analytics Lab (PAL)?PAL is an applied social science lab is in the tradition of industrial and organizational psychology (see siop.org for more details on the discipline). In the lab, students can find opportunities for professional development that will prepare them for their careers (e.g., grad school, entering technical entry-level analyst roles), learn about open science and open practice within the Human Resources and I/O Psychology domain, and gain opportunities to learn about or apply psychological theory to solve a variety of problems in organizational life.</description>
-    </item>
-    
-    <item>
-      <title>Lab Resources</title>
-      <link>/lab_resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/lab_resources/</guid>
-      <description>These resources below are for those individuals who are in the lab:Lab syllabi for research assistants (contains job descriptions)
-Letter of recommendation request survey form
-Open Science Manual from Haverford College
-Free BOOKS! A Tutorial for Learning Statistics with R; HadleyWickham’s R for Data Science; and the popular R Graphics Cookbook
-Psych Data Standards Materials
-Teaching yourself R? Try using the swirl package</description>
-    </item>
-    
-    <item>
-      <title>Team Members</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Current MembersDr. Ann-Marie CastilleEmail: ann-marie.castille@nicholls.eduSandesh SharmaEmail: ssharma1@nicholls.eduLane WilsonEmail: lwilson14@nicholls.eduAlumni MembersKathryn Daigle Bruton (Business Admin and Management, 2017)Data Analyst at Family Tree In-Home CareHouston, Texas“I always get asked how I got into Data Analytics, and I always credit you (Dr. Chris), your wife, and PAL.”</description>
-    </item>
-    
-  </channel>
-</rss>
