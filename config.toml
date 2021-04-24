@@ -6,13 +6,13 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = ""
     description = ""
     githubUsername = "#"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Shippori Mincho B1" # should match the name on Google Fonts!
+    font = "Georgia" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift","r"]
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/post/"
-    name = "Posts"
+    name = "Blogs"
     weight = 3
 
 [[menu.main]]
@@ -44,7 +44,7 @@ googleAnalytics = ""
     
 [[menu.main]]
     url = "/contact/"
-    name = "Contacts"
+    name = "Team Members"
     weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar.
