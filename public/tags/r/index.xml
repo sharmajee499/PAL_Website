@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on People Analytics Lab (PAL) @ Nicholls</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on People Analytics Lab (PAL) @ Nicholls</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 things you must know on R</title>
+      <link>/post/2021-05-02-4-basic-r/4_things_r/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-05-02-4-basic-r/4_things_r/</guid>
+      <description>Author: Sandesh Sharma
+Installing Packages and LibrariesLibraries are the things that make R so powerful. It is the heart for all processes that take place in R studio. CRAN (The Comprehensive R Archive Network) has more than 10,000 packages[1]. I think libraries/packages in R are like pre-built function that can be used by anyone, so they do not have to write the code from bottom up. Some of the famous libraries-that you may have heard, are ‘tidyverse’, ‘caret’, ‘ggplot’ etc.</description>
+    </item>
+    
+  </channel>
+</rss>

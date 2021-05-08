@@ -52,7 +52,7 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:christopher.castille@nicholls.edu"
+    url = "mailto:ann-marie.castille@nicholls.edu"
     name = "fas fa-envelope"
     weight = 1
 

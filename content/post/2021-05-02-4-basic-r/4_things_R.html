@@ -1,0 +1,82 @@
+---
+title: "4 things you must know on R"
+author: "Sandesh"
+date: "2021-05-02"
+output: html_document
+tags:
+  - tutorials
+  - R
+  - basic
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p><strong>Author: Sandesh Sharma</strong></p>
+<div id="installing-packages-and-libraries" class="section level3">
+<h3><strong>Installing Packages and Libraries</strong></h3>
+<p>Libraries are the things that make R so powerful. It is the heart for all processes that take place in R studio. CRAN (The Comprehensive R Archive Network) has more than 10,000 packages<sup>[1]</sup>. I think libraries/packages in R are like pre-built function that can be used by anyone, so they do not have to write the code from bottom up. Some of the famous libraries-that you may have heard, are ‘tidyverse’, ‘caret’, ‘ggplot’ etc.</p>
+<p>It’s a two step process to use any packages in R-Studio.</p>
+<p><strong>a. First, Install the Library</strong></p>
+<p>Go to the R studio console and simply type <em>install.packages(“library/package name”).</em></p>
+<p>Another way to do the same thing is by drag &amp; drop method.</p>
+<p>Go to <em>Packages</em> tab on your panal then go to <em>install</em> option and type the package name that you want to install. Hit <em>Install</em> and your are set.</p>
+<p>As you hit install button, you will see some wired stuff going in the R studio. It’s just installing the packages.</p>
+<p><img src="install_package.jpg" /></p>
+<p><strong>b. Load the Library</strong></p>
+<p>After the installation, you have to load the library in order to use in your session/code/script. Go to your R file that you are about to write code. For instance, R-Markdown, R Script etc. and simply code :</p>
+<p><em>library(library name)</em> . Don’t quote the library name this time like you did in <em>install.packages()</em>. Now, you are ready to use the power of your installed library/package.</p>
+</div>
+<div id="importing-the-data-file" class="section level3">
+<h3><strong>Importing the data file</strong></h3>
+<p>You will come across different data file while working in data analytics. However, here I will explain the basic two file that are most common i.e. .csv (text/comma seperated file) and .xlsx (excel file). First of all I will mention the mouse-click method.</p>
+<p>Go to the <em>Environment</em> tab on the panal and click the <em>Import Dataset</em> button. Chose what kind of data file your want to import.</p>
+<p>After selecting the needed data file, a dialog box will pop up. <em>Browse</em> the file that you want to read. A preview of the file will show up. After that hit <em>Import</em> to load the file to use.</p>
+<p><img src="reading_file.jpg" title="reading_file" width="600" /></p>
+<p>The other way to do the same thing is copy the code from the <em>Code Preview</em> box. <em>Cancel</em> the dialog box and paste the code in your R script.</p>
+<p><img src="dialog_box.jpg" /></p>
+</div>
+<div id="finding-the-na" class="section level3">
+<h3><strong>Finding the <em>NA</em></strong></h3>
+<p>NA or the empty data is the problem in any data analysis process. So, the NA should be removed or imputed using the respective methods. For that, we have to figure out how many NA’s are there and in the file and as well as where they are.</p>
+<p>To find how many of NA’s are there we have to combine two functions as shown in the below code.</p>
+<pre class="r"><code>#let&#39;s first make a dummy data
+
+df &lt;- data.frame(ID=c(1,2,3,NA,5),
+                 var1=c(&quot;a&quot;,NA,NA,&quot;d&quot;,&quot;e&quot;),
+                 var2=c(NA,&quot;apple&quot;,&quot;orange&quot;,NA,NA))
+
+#now let&#39;s find total missing value
+sum(is.na(df))</code></pre>
+<pre><code>## [1] 6</code></pre>
+<pre class="r"><code>#If you want to find out how many variable are missing in each column then:
+library(purrr)
+map(df, ~sum(is.na(.x))) #I will explain this method in separate blog post. </code></pre>
+<pre><code>## $ID
+## [1] 1
+## 
+## $var1
+## [1] 2
+## 
+## $var2
+## [1] 3</code></pre>
+</div>
+<div id="summary-function" class="section level3">
+<h3><strong>Summary function</strong></h3>
+<p><em>summary()</em> function is one code that’s gives a lot of information to explore the data. This function is applied to the whole data frame/dataset. It will also show the number of missing value that we did above, making the process much easier.</p>
+<pre class="r"><code>summary(df)</code></pre>
+<pre><code>##        ID           var1               var2          
+##  Min.   :1.00   Length:5           Length:5          
+##  1st Qu.:1.75   Class :character   Class :character  
+##  Median :2.50   Mode  :character   Mode  :character  
+##  Mean   :2.75                                        
+##  3rd Qu.:3.50                                        
+##  Max.   :5.00                                        
+##  NA&#39;s   :1</code></pre>
+<p>As shown in the output it will show every part of the descriptive statistics like min, max, median etc.</p>
+<p>However, as you can see in the output it will not show the NA’s for character class. Therefore, the we might have to use different method depending upon the dataset.</p>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal">
+<li><a href="https://blog.revolutionanalytics.com/2017/01/cran-10000.html#:~:text=10%2C000%20R%20packages.-,Here&#39;s%20how%20to%20find%20the%20ones%20you%20need.,R%20packages%20available%20for%20download*" class="uri">https://blog.revolutionanalytics.com/2017/01/cran-10000.html#:~:text=10%2C000%20R%20packages.-,Here's%20how%20to%20find%20the%20ones%20you%20need.,R%20packages%20available%20for%20download*</a>.</li>
+</ol>
+</div>
