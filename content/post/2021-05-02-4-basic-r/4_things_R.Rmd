@@ -27,7 +27,7 @@ Go to *Packages* tab on your panal then go to *install* option and type the pack
 
 As you hit install button, you will see some wired stuff going in the R studio. It's just installing the packages.
 
-![](install_package.jpg)
+![](/post/2021-05-02-4-basic-r/4_things_R_files/install_package.jpg)
 
 **b. Load the Library**
 
@@ -43,11 +43,11 @@ Go to the *Environment* tab on the panal and click the *Import Dataset* button. 
 
 After selecting the needed data file, a dialog box will pop up. *Browse* the file that you want to read. A preview of the file will show up. After that hit *Import* to load the file to use.
 
-![](reading_file.jpg "reading_file"){width="600"}
+![](/post/2021-05-02-4-basic-r/4_things_R_files/reading_file.jpg)
 
 The other way to do the same thing is copy the code from the *Code Preview* box. *Cancel* the dialog box and paste the code in your R script.
 
-![](dialog_box.jpg)
+![](/post/2021-05-02-4-basic-r/4_things_R_files/dialog_box.jpg)
 
 ### **Finding the *NA***
 
